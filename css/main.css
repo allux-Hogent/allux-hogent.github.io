@@ -1,0 +1,6 @@
+/*hier zet ik de volledige body achtrgond in blauw en alle tekst dus ook headers in wit*/
+body{
+    background-color: blue;
+    color: white;
+}
+
